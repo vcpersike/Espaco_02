@@ -65,9 +65,7 @@
     <Compile Include="Assets\2D Space Kit\Scripts_space\CustomPointer.cs" />
     <Compile Include="Assets\2D Space Kit\Scripts_space\PSDestroy.cs" />
     <Compile Include="Assets\2D Space Kit\Scripts_space\ShipCamera.cs" />
-    <Compile Include="Assets\Scripts\Movimentos\ParallaxLayer.cs" />
     <Compile Include="Assets\2D Space Kit\Scripts_space\Projectile.cs" />
-    <Compile Include="Assets\Scripts\Movimentos\Movimento.cs" />
     <Compile Include="Assets\Scripts\Movimentos\ParallaxYSpace.cs" />
     <Compile Include="Assets\2D Space Kit\Scripts_space\PlayerControlledTurret.cs" />
     <Compile Include="Assets\2D Space Kit\Scripts_space\AimBeam.cs" />

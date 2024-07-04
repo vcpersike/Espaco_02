@@ -61,6 +61,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\2D Space Kit\Scripts_space\Crosshair.cs" />
+    <Compile Include="Assets\Scripts\Movimentos\NaveAcceleration.cs" />
     <Compile Include="Assets\2D Space Kit\Scripts_space\CustomPointer.cs" />
     <Compile Include="Assets\2D Space Kit\Scripts_space\PSDestroy.cs" />
     <Compile Include="Assets\2D Space Kit\Scripts_space\ShipCamera.cs" />
